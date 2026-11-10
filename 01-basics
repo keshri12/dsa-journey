@@ -1,0 +1,4 @@
+chai_price = 15
+Quantity = 4
+total_price = chai_price * Quantity
+print(total_price)
